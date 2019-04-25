@@ -1,0 +1,2 @@
+# GalereyaManager
+kurs ishi
