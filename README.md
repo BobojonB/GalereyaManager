@@ -1,2 +1,2 @@
 # GalereyaManager
-kurs ishi
+Toyirov Nodir
